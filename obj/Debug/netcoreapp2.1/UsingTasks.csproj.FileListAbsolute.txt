@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\UsingTasks\bin\Debug\netcoreapp2.1\UsingTasks.deps.json
+C:\Users\caljf\Documents\UsingTasks\bin\Debug\netcoreapp2.1\UsingTasks.runtimeconfig.json
+C:\Users\caljf\Documents\UsingTasks\bin\Debug\netcoreapp2.1\UsingTasks.runtimeconfig.dev.json
+C:\Users\caljf\Documents\UsingTasks\bin\Debug\netcoreapp2.1\UsingTasks.dll
+C:\Users\caljf\Documents\UsingTasks\bin\Debug\netcoreapp2.1\UsingTasks.pdb
+C:\Users\caljf\Documents\UsingTasks\obj\Debug\netcoreapp2.1\UsingTasks.csprojAssemblyReference.cache
+C:\Users\caljf\Documents\UsingTasks\obj\Debug\netcoreapp2.1\UsingTasks.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\UsingTasks\obj\Debug\netcoreapp2.1\UsingTasks.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\UsingTasks\obj\Debug\netcoreapp2.1\UsingTasks.AssemblyInfo.cs
+C:\Users\caljf\Documents\UsingTasks\obj\Debug\netcoreapp2.1\UsingTasks.dll
+C:\Users\caljf\Documents\UsingTasks\obj\Debug\netcoreapp2.1\UsingTasks.pdb
