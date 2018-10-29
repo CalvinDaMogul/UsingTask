@@ -11,7 +11,7 @@ class Example
                                    Console.WriteLine("Task={0}, obj={1}, Thread={2}",
                                    Task.CurrentId, obj,
                                    Thread.CurrentThread.ManagedThreadId);
-                                               for (int i = 0; i < 100; i++)
+                                               for (int i = 0; i < 40; i++)
                                                     {
                                                     Console.WriteLine((String)obj +i);
                                                     }
